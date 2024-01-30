@@ -1,3 +1,9 @@
+![98008b7d661bd8c9ad2be01c68ea0611](https://github.com/Roblox/creator-docs/assets/158106566/9aebc309-0052-4037-be72-ab714f3ea82f)
+![bf84887e40490fa8e96f867248f4e974](https://github.com/Roblox/creator-docs/assets/158106566/4895d04b-57e1-4649-812e-14a94793bdec)
+![92b9ac665d54fe27b7933fee712566e6](https://github.com/Roblox/creator-docs/assets/158106566/275ca3d9-01d6-46f9-b36d-46585a82cb4f)
+![1427026121](https://github.com/Roblox/creator-docs/assets/158106566/d5417be3-4125-4cea-91de-ce6a1b5c762b)
+![Screenshot_20240128-122427](https://github.com/Roblox/creator-docs/assets/158106566/7ec19952-8089-4abe-ad77-a8711c821ad1)
+![a6dd51ff47a28127537f6638eac73aaf](https://github.com/Roblox/creator-docs/assets/158106566/0a812333-f0f7-4035-958f-9b6e198d5c0f)
 # Roblox Creator Documentation
 
 This repository holds source code for the creator documentation at [create.roblox.com/docs](https://create.roblox.com/docs).
